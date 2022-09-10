@@ -13,7 +13,7 @@ git clone https://github.com/PedroBicudo/dsmovie
 ```
 __Acessando o repositório__
 ```shell
-cd dsmovie
+cd dsmeta
 ```
 
 ### Front End
