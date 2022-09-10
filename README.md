@@ -34,7 +34,7 @@ npm run start
 1. Abra a pasta `backend` em uma IDE java (Intellij, por exemplo);
 2. Instale as dependências do maven;
 3. Execute o arquivo `DsmetaApplication.java`.
-```
+
 ## Tecnologias usadas
 - Git & Github
 
@@ -52,3 +52,10 @@ npm run start
 - Spring Web
 - H2 Database
 - Heroku
+
+## O que eu aprendi? 
+- SpringBoot
+- Fazer o deploy de aplicações no Heroku
+- React Hooks (useState, useEffect)
+- React Router DOM(Router, Link, useNavigate, useParams)
+- Axios
