@@ -9,7 +9,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 ## Executando o projeto
 __Clonando o repositório__
 ```shell
-git clone https://github.com/PedroBicudo/dsmovie
+git clone https://github.com/lukavmm/Spring-React-Project
 ```
 __Acessando o repositório__
 ```shell
